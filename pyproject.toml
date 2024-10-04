@@ -34,7 +34,7 @@ version = "0.1.0"
 [tool.poetry.dependencies]
 click = "^8.0.3"
 python = "^3.7"
-tree-sitter = {git = "https://github.com/tree-sitter/py-tree-sitter.git"}
+tree-sitter = "^0.21.3"
 
 [tool.poetry.dev-dependencies]
 # test
